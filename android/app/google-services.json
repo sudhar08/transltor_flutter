@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931189719751",
+    "project_id": "flutter-app-e94de",
+    "storage_bucket": "flutter-app-e94de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931189719751:android:2b1c298c87311200bdf4e2",
+        "android_client_info": {
+          "package_name": "com.example.nlp_college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931189719751-9n03o1ef04hnq2110qu7keis20qdp079.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SbDddmLq1B9fYAjY9K75wpIVmvxvs5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931189719751-9n03o1ef04hnq2110qu7keis20qdp079.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
